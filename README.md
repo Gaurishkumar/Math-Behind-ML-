@@ -26,10 +26,7 @@ This research report is part of an ongoing study on the mathematical foundations
   - Dimensionality Reduction Techniques
 
 
-3. Open the Jupyter Notebook:
-   ```sh
-   jupyter notebook Research_Report_(GAURISH_KUMAR).ipynb
-   ```
+
 
 ## Contributions & Contact
 This project is part of the Data Science Club’s research initiative. Contributions and collaborations are welcome. For any queries or discussions, feel free to reach out via:
